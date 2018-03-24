@@ -1,0 +1,5 @@
+c:\users\itsan\documents\visual studio 2015\Projects\ClayDb\ClayDb\bin\Debug\ClayDb.dacpac
+c:\users\itsan\documents\visual studio 2015\Projects\ClayDb\ClayDb\bin\Debug\ClayDb.dll
+c:\users\itsan\documents\visual studio 2015\Projects\ClayDb\ClayDb\bin\Debug\ClayDb.pdb
+c:\users\itsan\documents\visual studio 2015\Projects\ClayDb\ClayDb\obj\Debug\ClayDb.dll
+c:\users\itsan\documents\visual studio 2015\Projects\ClayDb\ClayDb\obj\Debug\ClayDb.pdb
